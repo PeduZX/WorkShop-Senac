@@ -11,3 +11,5 @@ const amigos = {
 };
 
 console.log(amigos)
+
+console.log("Consegui Comitar")
